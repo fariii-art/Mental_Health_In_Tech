@@ -49,5 +49,18 @@ How has the relationship between workplace mental-health support (benefits, work
 - **FILTER (WHERE ...)** for conditional counting
 - **Data validation:** row counts and join-integrity checks
 
-## Repository Structure
+## Limitations
+
+- Sample size drops sharply in later years (756 in 2017 → 131 in 2021)
+- Several regions have very small samples (Middle East n=10, Africa n=20)
+- Correlation (r = 0.96) is based on only 5 yearly data points
+- No formal significance testing performed — findings are descriptive associations
+
+## How to Reproduce
+
+1. Install PostgreSQL 16 + pgAdmin 4
+2. Create database: `mental_health_tech`
+3. Run the `CREATE TABLE` statements in `sql/analysis.sql`
+4. Import CSV files from `data/` into their matching tables
+5. Run each query in `sql/analysis.sql`
 
