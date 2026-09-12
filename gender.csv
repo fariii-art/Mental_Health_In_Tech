@@ -1,0 +1,120 @@
+gender_id,raw_gender,clean_gender
+1,*shrug emoji* (F),F
+2,43,Other
+3,Agender,GQ
+4,Agender trans woman,TG
+5,Agender/genderfluid,GQ
+6,CIS Male,M
+7,Cis Male,M
+8,Cis female ,F
+9,Cis male,M
+10,Cis woman,F
+11,Cis-Female,F
+12,Cis-male,M
+13,Cisgender male,M
+14,Cisgendered woman,F
+15,Cishet male,M
+16,Contextual,Other
+17,Demiguy,GQ
+18,F,F
+19,"F, cisgender",F
+20,FEMALE,F
+21,Female,F
+22,Female ,F
+23,Female (cis),F
+24,Female (cis) ,F
+25,Female (cisgender),F
+26,Female-identified,F
+27,Female-ish,F
+28,Female/gender non-binary.,GQ
+29,Femile,F
+30,Genderfluid,GQ
+31,Genderqueer,GQ
+32,Genderqueer demigirl,GQ
+33,Genderqueer/non-binary,GQ
+34,God King of the Valajar,Other
+35,I am a Wookie,Other
+36,I have a penis,Other
+37,I identify as female,F
+38,Identify as male,M
+39,"Let's keep it simple and say ""male""",M
+40,M,M
+41,MALE,M
+42,MAle,M
+43,Mail,M
+44,Make,M
+45,Male,M
+46,Male ,M
+47,Male (cis),M
+48,"Male (or female, or both)",Other
+49,"Male, cis",M
+50,Male-ish,M
+51,Malel,M
+52,Man,M
+53,Masculine,M
+54,My sex is female.,F
+55,NB,GQ
+56,Non binary,GQ
+57,Non-binary,GQ
+58,Non-binary and gender fluid,GQ
+59,Non-binary/Agender,GQ
+60,Nonbinary,GQ
+61,Nonbinary/femme,GQ
+62,Ostensibly Male,M
+63,Other,Other
+64,Questioning,GQ
+65,SWM,M
+66,She/her/they/them,GQ
+67,Trans female,TG
+68,Trans man,TG
+69,Trans non-binary/genderfluid,TG
+70,Trans woman,TG
+71,Transfeminine,TG
+72,Woman,F
+73,Woman-identified,F
+74,\-,Other
+75,afab non-binary,GQ
+76,agender,GQ
+77,b,Other
+78,cis female,F
+79,cis hetero male,M
+80,cis male,M
+81,cis male ,M
+82,cis woman,F
+83,cis-Female,F
+84,cis-het male,M
+85,cis-male,M
+86,cisgender female,F
+87,cisgender male,M
+88,dude,M
+89,f,F
+90,femail,F
+91,female,F
+92,female (cis),F
+93,female (cisgender),F
+94,"female, she/her",F
+95,femalw,F
+96,femmina,F
+97,gender non-conforming woman,GQ
+98,genderfluid,GQ
+99,homem cis,M
+100,m,M
+101,mail,M
+102,male,M
+103,male (hey this is the tech industry you're talking about),M
+104,"male, born with xy chromosoms",M
+105,male/androgynous ,M
+106,male/he/him,M
+107,man,M
+108,masculino,M
+109,mostly male,M
+110,non binary,GQ
+111,non-binary,GQ
+112,nonbinary,GQ
+113,none,Other
+114,rr,Other
+115,sometimes,Other
+116,trans woman,TG
+117,transgender,TG
+118,uhhhhhhhhh fem genderqueer?,GQ
+119,woman,F

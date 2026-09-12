@@ -1,0 +1,73 @@
+country_id,country_name,region
+1,Afghanistan,Asia
+2,Albania,Europe
+3,Algeria,Africa
+4,Argentina,South America
+5,Australia,Oceania
+6,Austria,Europe
+7,Bangladesh,Asia
+8,Belarus,Europe
+9,Belgium,Europe
+10,Brazil,South America
+11,Bulgaria,Europe
+12,Cameroon,Africa
+13,Canada,North America
+14,Chile,South America
+15,China,Asia
+16,Colombia,South America
+17,Croatia,Europe
+18,Czech Republic,Europe
+19,Egypt,Africa
+20,Estonia,Europe
+21,Ethiopia,Africa
+22,Finland,Europe
+23,France,Europe
+24,Georgia,Europe
+25,Germany,Europe
+26,Ghana,Africa
+27,Greece,Europe
+28,Hong Kong,Asia
+29,Hungary,Europe
+30,Iceland,Europe
+31,India,Asia
+32,Indonesia,Asia
+33,Ireland,Europe
+34,Israel,Asia
+35,Italy,Europe
+36,Japan,Asia
+37,Jordan,Middle East
+38,Kenya,Africa
+39,Latvia,Europe
+40,Macedonia,Europe
+41,Malaysia,Asia
+42,Mauritius,Africa
+43,Mexico,North America
+44,Mongolia,Asia
+45,Netherlands,Europe
+46,New Zealand,Oceania
+47,Nigeria,Africa
+48,Norway,Europe
+49,Pakistan,Asia
+50,Philippines,Asia
+51,Poland,Europe
+52,Portugal,Europe
+53,Romania,Europe
+54,Russia,Europe
+55,Sao Tome and Principe,Africa
+56,Saudi Arabia,Middle East
+57,Serbia,Europe
+58,Singapore,Asia
+59,Slovakia,Europe
+60,Slovenia,Europe
+61,South Africa,Africa
+62,Spain,Europe
+63,Sri Lanka,Asia
+64,Sweden,Europe
+65,Switzerland,Europe
+66,Taiwan,Asia
+67,Turkey,Middle East
+68,Ukraine,Europe
+69,United Kingdom,Europe
+70,United States of America,North America
+71,Uruguay,South America
+72,Vietnam,Asia
